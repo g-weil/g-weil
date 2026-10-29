@@ -1,10 +1,8 @@
 # Olá! Sou Gabriel Weil Briskiewski
 
-Sou desenvolvedor em formação e busco oportunidades na área de TI e desenvolvimento de software.
+Sou engenheiro de software e tenho dois anos de experiência trabalhando na área de TI do Banrisul. Possuo experiência prática em desenvolvimento de software por meio de projetos próprios e acadêmicos, construindo back-end, front-end e banco de dados relacional. Utilizei para os projetos as tecnologias Python, FastAPI, SQL, modelagem de banco de dados relacionais, APIs REST, desenvolvimento mobile e testes automatizados. Tenho conhecimento em arquitetura de software, regras de negócio, integridade de dados e versionamento com Git.
 
-Tenho direcionado meus estudos para Python, bancos de dados relacionais e desenvolvimento de APIs REST. Aprendo construindo projetos, testando funcionalidades e entendendo como as diferentes partes de uma aplicação trabalham juntas.
-
-## Conhecimentos que venho aplicando
+## Meus conhecimentos
 
 - **Python:** funções, organização de código, tratamento de exceções e regras de negócio.
 - **FastAPI e Pydantic:** criação de rotas REST, validação de dados e contratos de entrada e saída.
@@ -29,10 +27,6 @@ O projeto inclui:
 - Menu de terminal que compartilha as mesmas regras da API.
 
 [Conheça o projeto](https://github.com/fut-manager-labs/fut-manager)
-
-## Próximos estudos
-
-Meu próximo foco é JavaScript, HTML e CSS para desenvolver o frontend do Fut Manager e conectá-lo à API, ampliando minha compreensão do desenvolvimento de uma aplicação completa.
 
 ## Objetivo profissional
 
