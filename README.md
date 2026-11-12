@@ -12,7 +12,29 @@ Sou engenheiro de software e tenho dois anos de experiência trabalhando na áre
 - **Git e GitHub:** commits, branches, resolução de conflitos e versionamento.
 - **Swagger, Postman e DBeaver:** testes de endpoints e consulta de dados.
 
-## Projeto em destaque — Fut Manager
+
+## Projetos em destaque 
+
+Book Vault
+
+Aplicação para organização de uma biblioteca pessoal, desenvolvida com **Python, FastAPI, SQLAlchemy e SQLite**, com interface web em **HTML, CSS e JavaScript**.
+
+O projeto inclui:
+
+- Cadastro, consulta, edição e exclusão de livros e autores.
+- Biblioteca em cards com capas opcionais e formulários em modais.
+- Busca por título e autor, combinada com filtro de status.
+- Cinco status de leitura: Quero ler, Lendo, Lido, Relendo e Abandonado.
+- Associação de múltiplos autores e gêneros por livro.
+- Validações e prevenção de cadastros duplicados.
+- API REST com documentação interativa e menu de terminal.
+- Testes automatizados com execução pelo GitHub Actions.
+- Configuração Docker para hospedagem com persistência dos dados.
+
+[Conheça o projeto](https://github.com/g-weil/book-vault-api)
+
+
+Fut Manager
 
 Backend de uma aplicação para organização de partidas de futebol amador, desenvolvido com Python, FastAPI, SQLAlchemy e MySQL.
 
