@@ -4,13 +4,18 @@ Sou engenheiro de software e tenho dois anos de experiência trabalhando na áre
 
 ## Meus conhecimentos
 
-- **Python:** funções, organização de código, tratamento de exceções e regras de negócio.
-- **FastAPI e Pydantic:** criação de rotas REST, validação de dados e contratos de entrada e saída.
-- **SQL e MySQL:** consultas, relacionamentos entre tabelas e integridade referencial.
-- **SQLAlchemy:** mapeamento de modelos, consultas e controle de transações.
-- **Testes automatizados:** testes de regras de negócio, API, persistência e tratamento de erros.
-- **Git e GitHub:** commits, branches, resolução de conflitos e versionamento.
-- **Swagger, Postman e DBeaver:** testes de endpoints e consulta de dados.
+- **Python:** funções, organização de código, tratamento de exceções e implementação de regras de negócio.
+- **FastAPI e Pydantic:** criação de APIs REST, validação de dados, schemas de entrada e saída e respostas HTTP.
+- **SQL, MySQL, SQLite e PostgreSQL:** consultas, chaves, relacionamentos muitos-para-muitos e integridade referencial.
+- **SQLAlchemy e Psycopg:** mapeamento de modelos, consultas, conexão com bancos e controle de transações.
+- **Migração de bancos:** transferência de SQLite para PostgreSQL, backup consistente, preservação de IDs e relacionamentos e ajuste de sequências.
+- **HTML e CSS:** estruturação de páginas, estilização, layouts responsivos, cards, formulários e modais.
+- **JavaScript:** manipulação do DOM, eventos, requisições assíncronas com `fetch`, integração com APIs, filtros e tratamento de erros.
+- **Docker e Docker Compose:** imagens, contêineres, volumes persistentes, variáveis de ambiente, redes entre serviços e verificações de disponibilidade.
+- **Testes automatizados:** testes de API, terminal, frontend, persistência, migração, concorrência e rollback com bancos isolados.
+- **GitHub Actions:** configuração de integração contínua para executar testes a cada push e pull request, com PostgreSQL temporário.
+- **Git e GitHub:** commits, branches, pull requests, merges, resolução de conflitos e versionamento.
+- **Swagger, Postman e DBeaver:** documentação interativa, testes de endpoints e consulta de dados.
 
 
 ## Projetos em destaque 
