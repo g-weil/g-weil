@@ -17,7 +17,7 @@ Sou engenheiro de software e tenho dois anos de experiência trabalhando na áre
 
 Book Vault
 
-Aplicação para organização de uma biblioteca pessoal, desenvolvida com **Python, FastAPI, SQLAlchemy e SQLite**, com interface web em **HTML, CSS e JavaScript**.
+Aplicação para organização de uma biblioteca pessoal, desenvolvida com **Python, FastAPI, SQLAlchemy, PostgreSQL (Executado pelo Docker)**, com interface web em **HTML, CSS e JavaScript**.
 
 O projeto inclui:
 
